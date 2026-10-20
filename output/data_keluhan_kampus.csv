@@ -1,0 +1,181 @@
+ID_Keluhan,Tanggal,Kategori,Lokasi,Prioritas,Status,Waktu_Penyelesaian_Jam,Kepuasan_Pelapor
+KLH-104,2026-01-02,Proyektor,Gedung C,Sedang,Selesai,25.2,4
+KLH-170,2026-01-05,AC,Gedung C,Sedang,Selesai,25.9,4
+KLH-138,2026-01-06,Toilet,Gedung A,Sedang,Selesai,32.1,4
+KLH-117,2026-01-07,Wi-Fi,Perpustakaan,Sedang,Diproses,28.3,4
+KLH-147,2026-01-07,Toilet,Gedung C,Sedang,Selesai,31.7,3
+KLH-056,2026-01-08,Kebersihan,Laboratorium,Rendah,Selesai,15.5,4
+KLH-150,2026-01-11,Wi-Fi,Perpustakaan,Rendah,Selesai,4.5,4
+KLH-036,2026-01-12,Toilet,Gedung B,Sedang,Selesai,11.3,5
+KLH-045,2026-01-13,AC,Gedung C,Tinggi,Menunggu,55.8,4
+KLH-069,2026-01-14,AC,Laboratorium,Rendah,Diproses,14.6,3
+KLH-127,2026-01-15,Wi-Fi,Gedung C,Sedang,Diproses,16.6,4
+KLH-007,2026-01-16,Kebersihan,Gedung C,Tinggi,Selesai,20.8,2
+KLH-001,2026-01-17,Wi-Fi,Perpustakaan,Tinggi,Menunggu,34.7,4
+KLH-172,2026-01-17,Proyektor,Gedung C,Sedang,Diproses,34.6,5
+KLH-133,2026-01-17,AC,Perpustakaan,Sedang,Menunggu,31.5,4
+KLH-033,2026-01-17,Wi-Fi,Gedung B,Sedang,Selesai,11.8,4
+KLH-087,2026-01-18,Toilet,Gedung B,Tinggi,Diproses,44.0,3
+KLH-010,2026-01-18,Kursi/Meja,Perpustakaan,Tinggi,Selesai,34.8,4
+KLH-171,2026-01-20,Wi-Fi,Perpustakaan,Sedang,Menunggu,14.9,5
+KLH-120,2026-01-21,Toilet,Gedung B,Sedang,Selesai,20.5,4
+KLH-157,2026-01-23,AC,Perpustakaan,Sedang,Diproses,16.6,2
+KLH-074,2026-01-24,Wi-Fi,Gedung B,Tinggi,Menunggu,12.1,5
+KLH-018,2026-01-24,Kebersihan,Laboratorium,Sedang,Selesai,13.7,4
+KLH-118,2026-01-26,AC,Perpustakaan,Sedang,Selesai,35.5,5
+KLH-100,2026-01-26,Kebersihan,Laboratorium,Sedang,Diproses,12.7,3
+KLH-058,2026-01-28,Toilet,Perpustakaan,Tinggi,Diproses,16.5,5
+KLH-041,2026-01-30,Wi-Fi,Gedung A,Sedang,Selesai,26.8,4
+KLH-083,2026-01-30,Kebersihan,Gedung A,Sedang,Menunggu,32.5,3
+KLH-178,2026-01-30,Wi-Fi,Gedung C,Rendah,Selesai,4.4,3
+KLH-168,2026-01-31,Wi-Fi,Gedung C,Tinggi,Diproses,14.8,4
+KLH-023,2026-02-03,Kebersihan,Gedung C,Tinggi,Diproses,52.9,3
+KLH-072,2026-02-04,Kursi/Meja,Gedung C,Tinggi,Diproses,29.5,5
+KLH-052,2026-02-05,Toilet,Laboratorium,Sedang,Selesai,22.2,2
+KLH-009,2026-02-06,Wi-Fi,Gedung C,Sedang,Diproses,18.6,4
+KLH-102,2026-02-06,Kebersihan,Laboratorium,Rendah,Diproses,11.1,4
+KLH-142,2026-02-08,Kebersihan,Gedung A,Tinggi,Selesai,46.0,4
+KLH-078,2026-02-11,Proyektor,Gedung B,Sedang,Selesai,9.3,4
+KLH-032,2026-02-11,AC,Gedung C,Rendah,Diproses,6.5,3
+KLH-148,2026-02-12,Proyektor,Gedung C,Tinggi,Menunggu,49.5,3
+KLH-097,2026-02-13,Kebersihan,Gedung B,Tinggi,Diproses,53.8,4
+KLH-119,2026-02-14,Wi-Fi,Gedung A,Sedang,Selesai,17.4,3
+KLH-143,2026-02-20,Kursi/Meja,Laboratorium,Tinggi,Selesai,48.7,3
+KLH-039,2026-02-20,Wi-Fi,Laboratorium,Sedang,Diproses,5.6,4
+KLH-152,2026-02-20,Proyektor,Perpustakaan,Tinggi,Menunggu,9.2,4
+KLH-111,2026-02-20,Proyektor,Gedung C,Sedang,Selesai,23.5,3
+KLH-096,2026-02-22,AC,Perpustakaan,Rendah,Selesai,16.3,4
+KLH-154,2026-02-23,Toilet,Laboratorium,Sedang,Selesai,16.1,4
+KLH-136,2026-02-25,Kursi/Meja,Perpustakaan,Sedang,Selesai,19.0,5
+KLH-088,2026-02-26,Kursi/Meja,Gedung B,Sedang,Selesai,9.5,5
+KLH-066,2026-02-28,AC,Gedung C,Tinggi,Diproses,26.8,5
+KLH-167,2026-02-28,Proyektor,Gedung A,Tinggi,Diproses,28.5,4
+KLH-077,2026-03-01,Proyektor,Gedung B,Rendah,Diproses,1.3,4
+KLH-169,2026-03-02,Wi-Fi,Gedung C,Tinggi,Selesai,16.5,5
+KLH-139,2026-03-04,AC,Gedung C,Sedang,Selesai,16.1,5
+KLH-044,2026-03-06,Kebersihan,Gedung A,Rendah,Selesai,3.3,4
+KLH-053,2026-03-07,Kursi/Meja,Gedung B,Rendah,Selesai,11.0,4
+KLH-063,2026-03-08,Wi-Fi,Perpustakaan,Rendah,Menunggu,8.7,4
+KLH-022,2026-03-09,Wi-Fi,Gedung A,Tinggi,Selesai,13.8,3
+KLH-068,2026-03-09,AC,Gedung C,Tinggi,Selesai,24.6,4
+KLH-094,2026-03-12,Kebersihan,Gedung B,Rendah,Selesai,10.9,4
+KLH-027,2026-03-14,Proyektor,Gedung B,Sedang,Diproses,14.7,4
+KLH-144,2026-03-15,AC,Laboratorium,Sedang,Selesai,22.2,5
+KLH-164,2026-03-15,Kebersihan,Gedung A,Sedang,Menunggu,19.0,4
+KLH-163,2026-03-16,Toilet,Gedung A,Rendah,Selesai,16.9,5
+KLH-065,2026-03-16,Wi-Fi,Laboratorium,Sedang,Menunggu,35.5,5
+KLH-165,2026-03-17,Wi-Fi,Gedung A,Rendah,Selesai,4.3,4
+KLH-005,2026-03-20,Kebersihan,Laboratorium,Sedang,Selesai,7.3,5
+KLH-155,2026-03-20,AC,Gedung A,Sedang,Menunggu,27.0,4
+KLH-091,2026-03-20,Kursi/Meja,Perpustakaan,Rendah,Menunggu,1.1,4
+KLH-140,2026-03-21,Wi-Fi,Laboratorium,Sedang,Selesai,20.5,4
+KLH-004,2026-03-21,Kebersihan,Gedung A,Rendah,Menunggu,17.3,3
+KLH-121,2026-03-21,AC,Gedung A,Sedang,Selesai,4.4,4
+KLH-082,2026-03-21,Toilet,Gedung C,Rendah,Selesai,6.4,1
+KLH-030,2026-03-22,AC,Gedung C,Tinggi,Selesai,51.7,3
+KLH-047,2026-03-22,Kursi/Meja,Perpustakaan,Sedang,Selesai,10.0,5
+KLH-031,2026-03-23,Toilet,Laboratorium,Sedang,Selesai,12.3,4
+KLH-020,2026-03-23,Kursi/Meja,Laboratorium,Sedang,Selesai,17.3,4
+KLH-114,2026-03-25,Wi-Fi,Laboratorium,Rendah,Selesai,12.5,3
+KLH-073,2026-03-25,Wi-Fi,Perpustakaan,Sedang,Menunggu,14.2,4
+KLH-176,2026-03-25,Wi-Fi,Perpustakaan,Rendah,Selesai,16.0,4
+KLH-054,2026-03-26,Toilet,Laboratorium,Tinggi,Selesai,52.2,3
+KLH-070,2026-03-26,Proyektor,Laboratorium,Tinggi,Selesai,39.2,4
+KLH-109,2026-03-27,Wi-Fi,Laboratorium,Rendah,Diproses,15.9,5
+KLH-124,2026-03-27,Proyektor,Gedung B,Sedang,Selesai,17.1,5
+KLH-076,2026-03-28,Kebersihan,Perpustakaan,Rendah,Diproses,6.9,5
+KLH-180,2026-04-01,Wi-Fi,Gedung C,Tinggi,Menunggu,35.1,4
+KLH-021,2026-04-01,Toilet,Gedung C,Sedang,Selesai,4.1,2
+KLH-055,2026-04-01,Toilet,Gedung B,Rendah,Selesai,1.1,4
+KLH-115,2026-04-02,Wi-Fi,Gedung C,Rendah,Diproses,13.3,4
+KLH-159,2026-04-02,Kebersihan,Gedung A,Rendah,Diproses,11.3,2
+KLH-017,2026-04-03,Toilet,Perpustakaan,Tinggi,Selesai,18.8,3
+KLH-011,2026-04-06,Kursi/Meja,Laboratorium,Tinggi,Selesai,24.3,4
+KLH-029,2026-04-09,Toilet,Perpustakaan,Rendah,Selesai,14.3,3
+KLH-057,2026-04-09,Kebersihan,Gedung C,Rendah,Diproses,11.5,4
+KLH-113,2026-04-11,Toilet,Gedung B,Rendah,Diproses,7.7,4
+KLH-034,2026-04-11,Kebersihan,Gedung A,Sedang,Diproses,19.4,4
+KLH-158,2026-04-11,Kebersihan,Gedung C,Sedang,Selesai,14.2,4
+KLH-132,2026-04-11,Toilet,Perpustakaan,Sedang,Selesai,10.4,5
+KLH-134,2026-04-12,Kursi/Meja,Gedung A,Sedang,Diproses,33.2,3
+KLH-131,2026-04-13,Kebersihan,Laboratorium,Sedang,Selesai,9.7,4
+KLH-126,2026-04-13,AC,Perpustakaan,Sedang,Diproses,32.5,5
+KLH-116,2026-04-13,Wi-Fi,Gedung C,Sedang,Selesai,22.1,5
+KLH-079,2026-04-13,Kebersihan,Gedung A,Sedang,Selesai,27.2,4
+KLH-129,2026-04-15,Kursi/Meja,Laboratorium,Sedang,Selesai,8.8,5
+KLH-137,2026-04-20,Wi-Fi,Gedung C,Sedang,Menunggu,27.5,4
+KLH-085,2026-04-24,Wi-Fi,Perpustakaan,Rendah,Menunggu,3.1,4
+KLH-040,2026-04-25,Toilet,Gedung A,Sedang,Selesai,18.7,3
+KLH-130,2026-04-25,Kebersihan,Gedung A,Sedang,Selesai,34.8,4
+KLH-099,2026-04-26,AC,Perpustakaan,Tinggi,Diproses,40.3,4
+KLH-026,2026-04-27,Proyektor,Gedung B,Tinggi,Diproses,33.5,4
+KLH-003,2026-04-29,Toilet,Gedung A,Rendah,Diproses,1.6,4
+KLH-123,2026-04-29,Wi-Fi,Gedung A,Sedang,Selesai,20.6,5
+KLH-156,2026-04-30,Proyektor,Gedung B,Rendah,Selesai,16.1,4
+KLH-108,2026-05-01,Proyektor,Gedung C,Tinggi,Selesai,20.0,3
+KLH-122,2026-05-01,Toilet,Perpustakaan,Rendah,Menunggu,14.5,4
+KLH-162,2026-05-01,Proyektor,Perpustakaan,Sedang,Selesai,23.3,5
+KLH-080,2026-05-02,Kursi/Meja,Gedung A,Sedang,Selesai,26.7,2
+KLH-049,2026-05-03,Proyektor,Laboratorium,Rendah,Selesai,2.9,5
+KLH-060,2026-05-04,Wi-Fi,Perpustakaan,Tinggi,Diproses,52.5,4
+KLH-098,2026-05-04,Wi-Fi,Gedung B,Sedang,Diproses,21.2,3
+KLH-075,2026-05-05,Toilet,Perpustakaan,Rendah,Selesai,1.5,4
+KLH-175,2026-05-07,Kursi/Meja,Laboratorium,Rendah,Diproses,13.8,5
+KLH-008,2026-05-07,Wi-Fi,Gedung C,Sedang,Selesai,6.1,2
+KLH-043,2026-05-07,Toilet,Gedung A,Tinggi,Selesai,10.5,3
+KLH-086,2026-05-07,Wi-Fi,Gedung B,Sedang,Selesai,8.6,3
+KLH-110,2026-05-08,Kebersihan,Laboratorium,Sedang,Selesai,12.1,4
+KLH-177,2026-05-10,Kebersihan,Gedung C,Sedang,Selesai,12.9,3
+KLH-015,2026-05-10,Proyektor,Laboratorium,Rendah,Selesai,2.0,3
+KLH-174,2026-05-11,Wi-Fi,Perpustakaan,Sedang,Menunggu,7.2,5
+KLH-013,2026-05-14,Kebersihan,Laboratorium,Sedang,Selesai,7.6,4
+KLH-062,2026-05-15,Kursi/Meja,Perpustakaan,Rendah,Diproses,16.6,4
+KLH-059,2026-05-15,Toilet,Perpustakaan,Rendah,Menunggu,14.1,4
+KLH-014,2026-05-18,Kursi/Meja,Gedung B,Sedang,Menunggu,16.3,5
+KLH-042,2026-05-18,Kursi/Meja,Laboratorium,Tinggi,Selesai,15.8,3
+KLH-051,2026-05-18,Toilet,Laboratorium,Sedang,Menunggu,11.7,5
+KLH-128,2026-05-19,Wi-Fi,Laboratorium,Rendah,Menunggu,12.6,4
+KLH-089,2026-05-19,Kursi/Meja,Gedung C,Rendah,Selesai,9.6,4
+KLH-173,2026-05-20,Kebersihan,Perpustakaan,Sedang,Diproses,11.8,3
+KLH-002,2026-05-21,AC,Gedung A,Rendah,Selesai,8.4,4
+KLH-050,2026-05-21,Wi-Fi,Laboratorium,Tinggi,Selesai,40.2,4
+KLH-160,2026-05-22,Toilet,Gedung A,Tinggi,Selesai,38.2,4
+KLH-025,2026-05-22,Wi-Fi,Laboratorium,Sedang,Diproses,20.3,4
+KLH-112,2026-05-22,Kursi/Meja,Perpustakaan,Sedang,Menunggu,21.7,4
+KLH-107,2026-05-22,AC,Gedung C,Sedang,Selesai,23.1,3
+KLH-016,2026-05-23,AC,Gedung C,Rendah,Selesai,12.9,3
+KLH-106,2026-05-23,Wi-Fi,Gedung B,Sedang,Diproses,4.6,4
+KLH-135,2026-05-24,Kebersihan,Perpustakaan,Tinggi,Selesai,19.0,4
+KLH-071,2026-05-25,Wi-Fi,Laboratorium,Tinggi,Selesai,19.3,5
+KLH-105,2026-05-25,Wi-Fi,Perpustakaan,Sedang,Diproses,30.8,4
+KLH-092,2026-05-26,Kursi/Meja,Gedung B,Tinggi,Diproses,8.9,4
+KLH-103,2026-05-26,Wi-Fi,Laboratorium,Tinggi,Selesai,23.3,4
+KLH-166,2026-05-28,AC,Gedung C,Sedang,Selesai,16.1,4
+KLH-028,2026-05-29,AC,Gedung B,Tinggi,Selesai,30.4,5
+KLH-149,2026-05-29,Wi-Fi,Gedung C,Sedang,Diproses,7.2,4
+KLH-038,2026-05-30,Wi-Fi,Gedung C,Sedang,Selesai,33.8,5
+KLH-090,2026-05-31,AC,Gedung B,Sedang,Diproses,35.7,5
+KLH-084,2026-05-31,Kursi/Meja,Gedung C,Rendah,Selesai,11.1,4
+KLH-101,2026-05-31,Kursi/Meja,Perpustakaan,Sedang,Diproses,5.6,5
+KLH-019,2026-06-01,Wi-Fi,Perpustakaan,Sedang,Selesai,16.6,5
+KLH-093,2026-06-02,Toilet,Gedung C,Sedang,Selesai,35.8,5
+KLH-151,2026-06-04,Proyektor,Laboratorium,Rendah,Selesai,13.6,4
+KLH-146,2026-06-04,Proyektor,Laboratorium,Tinggi,Selesai,55.0,3
+KLH-125,2026-06-04,AC,Gedung C,Rendah,Selesai,2.6,5
+KLH-037,2026-06-05,Kebersihan,Laboratorium,Tinggi,Menunggu,25.2,4
+KLH-006,2026-06-05,AC,Gedung A,Sedang,Selesai,5.3,4
+KLH-035,2026-06-10,Wi-Fi,Gedung A,Rendah,Diproses,12.6,4
+KLH-048,2026-06-11,Toilet,Gedung A,Tinggi,Selesai,9.6,5
+KLH-095,2026-06-12,Proyektor,Gedung A,Rendah,Selesai,3.2,3
+KLH-179,2026-06-13,Wi-Fi,Gedung B,Rendah,Diproses,4.2,4
+KLH-067,2026-06-13,Kebersihan,Gedung B,Rendah,Diproses,14.8,4
+KLH-061,2026-06-16,Proyektor,Perpustakaan,Sedang,Selesai,12.1,4
+KLH-153,2026-06-16,Wi-Fi,Laboratorium,Rendah,Selesai,17.6,4
+KLH-024,2026-06-17,Toilet,Gedung A,Sedang,Diproses,4.0,4
+KLH-081,2026-06-20,Kebersihan,Gedung C,Tinggi,Diproses,46.4,4
+KLH-064,2026-06-25,Toilet,Gedung A,Rendah,Diproses,11.3,4
+KLH-046,2026-06-25,Wi-Fi,Laboratorium,Tinggi,Diproses,8.5,4
+KLH-012,2026-06-26,AC,Gedung B,Rendah,Selesai,1.9,4
+KLH-141,2026-06-27,Wi-Fi,Perpustakaan,Sedang,Selesai,27.7,5
+KLH-145,2026-06-29,Kursi/Meja,Gedung A,Sedang,Diproses,7.3,4
+KLH-161,2026-06-30,AC,Gedung C,Tinggi,Selesai,29.3,4
